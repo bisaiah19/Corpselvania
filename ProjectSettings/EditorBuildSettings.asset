@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MadeByScreen.unity
+    guid: 4cbebc5a547ede942bbe6925cf328e92
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: a3a51b7014fea2c44b857de484c6f21b
+  - enabled: 1
+    path: Assets/Scenes/TheGraveyardBeginning.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TheGraveyardMiddle.unity
+    guid: ac55f997647346b4aab58f1d1144e42e
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 7e0fc317e6b10e14d81fe4b1bac438bd
+  m_configObjects: {}
